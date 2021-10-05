@@ -42,3 +42,6 @@ function multPersistence(n) {
 
     return count;
 }
+
+console.log(addPersistence(987654321));
+console.log(multPersistence(123456789));
